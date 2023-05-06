@@ -76,7 +76,7 @@ As the size of our model is just 3.09 MB (transfer learning based models are hun
 
 ## RUNNING THE CODE
 Clone the repository or download the zip file <br>
-```git clone https://github.com/VallishaM/chest-xray.git```
+```https://github.com/vishal-khot/pneumonia-detector.git```
 <br><br>
 Go into the backend directory<br>
 ```cd backend```
